@@ -17,6 +17,6 @@
 - LLM-based tools and RAG-based workflows
 - Networking and teleinformatics fundamentals
 
-## 🌱 What I’m focused on
+## 🎯 What I’m focused on
 
 I like working on projects where data, automation and software can make everyday tasks easier or more useful.
