@@ -2,19 +2,21 @@
 
 🎓 Teleinformatics student at Wrocław University of Science and Technology  
 
-🐍 Interested in Python, SQL, data analysis, databases and AI-assisted systems  
+🐍 Interested in Python, SQL, data analysis, databases and practical IT systems  
 
-📊 I enjoy building practical applications that combine structured data, backend logic and real user needs  
+📊 I enjoy building applications that combine structured data, backend logic and real user needs  
 
-🚀 Currently exploring LLMs, embeddings, vector databases, OCR and RAG workflows for data-oriented applications.
+🚀 Currently exploring LLMs, embeddings, vector databases and RAG workflows for data-oriented applications.
 
 ## 🔧 What I work with
 
-- SQL, PostgreSQL and relational database design
 - Python, NumPy, pandas and scikit-learn
+- SQL, PostgreSQL and relational database design
 - Data analysis and data processing
+- Windows, Linux and command-line workflows
+- Bash scripting
+- Docker fundamentals and container-based development
 - Backend logic and database-driven applications
-- LLM-based tools and RAG-based workflows
 - Networking and teleinformatics fundamentals
 
 ## 🎯 What I’m focused on
